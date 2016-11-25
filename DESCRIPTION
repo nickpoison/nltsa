@@ -1,0 +1,59 @@
+Package: nltsa
+Type: Package
+Title: Nonlinear Time Series Analysis
+Version: 1.0
+Date: 2013-02-23
+Author: Julien Cornebise, Eric Moulines, David Stoffer
+Maintainer: David Stoffer <stoffer@pitt.edu>
+Description: Data sets and scripts for Nonlinear Time Series, Theory, Methods,
+    and Applications by Douc, Moulines, Stoffer
+Imports:
+    plyr,
+    FKF,
+    mvtnorm,
+    astsa
+Suggests:
+    testthat
+URL: http://www.stat.pitt.edu/stoffer/nltsa/
+License: GPL-2
+LazyLoad: yes
+Collate:
+    'CPFSAEM.R'
+    'CPFSGgrowth.R'
+    'CV.R'
+    'FFBSi.R'
+    'FFBSi.linear.R'
+    'FFBSm.R'
+    'MH.R'
+    'MultinomialR.R'
+    'MultinomialSorted.R'
+    'NGMdata.r'
+    'NGMmodel.R'
+    'PGAS.R'
+    'ParticleEM.R'
+    'ParticleSAEM.R'
+    'ParticleSGGrowth.R'
+    'ResidualMultinomialR.R'
+    'arch.nlss.R'
+    'arch.optimal.R'
+    'arp.mcmc.R'
+    'bessel.nlss.R'
+    'bi.coh.R'
+    'commonMethods.R'
+    'cpf.sisr.R'
+    'export_everything.R'
+    'metronorm.R'
+    'my.system.time.R'
+    'noisyAR.R'
+    'normalized.exponential.R'
+    'pgasNGM.r'
+    'pmcmcNGM.r'
+    'pmmh.R'
+    'poorman.smoother.R'
+    'resampling.R'
+    'simulate.data.R'
+    'sis.R'
+    'siskernel.R'
+    'sisr.R'
+    'sisr.auxiliary.R'
+    'stovol.R'

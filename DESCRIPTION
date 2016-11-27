@@ -12,8 +12,6 @@ Imports:
     FKF,
     mvtnorm,
     astsa
-Suggests:
-    testthat
 URL: http://www.stat.pitt.edu/stoffer/nltsa/
-License: GPL-2
+License: GPL-3
 LazyLoad: yes

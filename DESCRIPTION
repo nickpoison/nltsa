@@ -1,0 +1,17 @@
+Package: nltsa
+Type: Package
+Title: Nonlinear Time Series Analysis
+Version: 1.0
+Date: 2013-02-23
+Author: Julien Cornebise, Eric Moulines, David Stoffer
+Maintainer: David Stoffer <stoffer@pitt.edu>
+Description: Data sets and scripts for Nonlinear Time Series, Theory, Methods,
+    and Applications by Douc, Moulines, Stoffer
+Imports:
+    plyr,
+    FKF,
+    mvtnorm,
+    astsa
+URL: http://www.stat.pitt.edu/stoffer/nltsa/
+License: GPL-2
+LazyLoad: yes

@@ -1,4 +1,3 @@
-import(astsa)
 import(mvtnorm)
 import(plyr)
 

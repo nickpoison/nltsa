@@ -1,6 +1,4 @@
 import(mvtnorm)
-import(plyr)
-
 
 # Export all names
 exportPattern(".")

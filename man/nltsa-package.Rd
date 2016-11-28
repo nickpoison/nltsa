@@ -2,12 +2,10 @@
 \alias{nltsa-package}
 \alias{nltsa}
 \docType{package}
-\title{Nonlinear Time Series Analysis
-}
+\title{Nonlinear Time Series Analysis}
 \description{
 Contains data sets and scripts for Nonlinear Time Series, Theory, Methods,
-    and Applications by Douc, Moulines, Stoffer 
-}
+    and Applications by Douc, Moulines, Stoffer }
 \details{
 \tabular{ll}{
 Package: \tab nltsa\cr

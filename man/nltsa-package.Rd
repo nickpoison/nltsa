@@ -15,9 +15,9 @@ License: \tab GPL-3\cr
 LazyLoad: \tab yes\cr
 LazyData: \tab no\cr
 }
+}
 \author{
 Nick Poison <nickpoison@whatsamattaU.edu>
-}
 }
 \references{See the webpage for the text: \url{http://www.stat.pitt.edu/stoffer/nltsa/} 
 }

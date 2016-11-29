@@ -8,9 +8,7 @@ Maintainer: David Stoffer <stoffer@pitt.edu>
 Description: Contains data sets and scripts for Nonlinear Time Series, Theory, Methods,
     and Applications by Douc, Moulines, Stoffer
 Imports:
-    plyr,
-    mvtnorm,
-    astsa
+    mvtnorm
 URL: http://www.stat.pitt.edu/stoffer/nltsa/
 License: GPL-3
 LazyLoad: yes

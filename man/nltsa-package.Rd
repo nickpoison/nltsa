@@ -17,7 +17,7 @@ LazyData: \tab no\cr
 }
 }
 \author{
-Nick Poison <nickpoison@whatsamattaU.edu>
+Nicky Poison <nickpoison@whatsamattaU.edu>
 }
 \references{See the webpage for the text: \url{http://www.stat.pitt.edu/stoffer/nltsa/} 
 }
